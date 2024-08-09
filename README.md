@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luiz Felipe 👋
+## Olá! Eu sou o Luiz Felipe 👋
 
 Sou apaixonado por tecnologia e estou atualmente estudando para me tornar um desenvolvedor Front-End.
 
