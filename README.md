@@ -6,7 +6,7 @@ Web Developer.
 
 ### Technologies that I use in my daily life
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,tailwind,bootstrap,git)](https://skillicons.dev)
 
 ### Social Media
 
