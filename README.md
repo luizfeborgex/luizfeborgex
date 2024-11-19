@@ -1,6 +1,6 @@
-## Hello! I'm Luiz Felipe 👋
+## Hello! I'm Luiz Felipe
 
-Front-End Developer.
+Web Developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfeborgex&layout=compact&theme=dark)
 
