@@ -2,11 +2,11 @@
 
 Web Developer.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfeborgex&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfeborgex&layout=compact&theme=codeSTACKr)
 
 ### Technologies that I use in my daily life
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git)](https://skillicons.dev)
 
 ### Social Media
 
